@@ -1,36 +1,4 @@
-* {
-  margin: 0px;
-  padding: 0px;
-}
-
-.account-title {
-  border-bottom: 1px solid lightgray;
-  position: fixed;
-  width: 100%;
-  top: 0px;
-  font-size: 9px;
-  font-family: Arial;
-  background-color: white;
-  padding: 12px;
-  z-index: 10;
-}
-
-.account-body {
-  position: relative;
-  top: 50px;
-  z-index: 5;
-}
-
-.account-name {
-  text-align: center;
-}
-
-.profile-wrapper {
-  margin: 24px 16px;
-}
-
 .profile-image {
-  margin-top: 8px;
   width: 77px;
   height: 77px;
   border-radius: 50%;
@@ -38,8 +6,8 @@
 }
 
 .user-info {
-  padding-left: 28px;
   display: inline-block;
+  padding-left: 28px;
 }
 
 .user-name {
@@ -48,39 +16,30 @@
 }
 
 .instagram-button {
-  border-radius: 8px;
   height: 30px;
-  margin-top: 24px;
-  font-weight: bold;
+  border-radius: 8px;
   border: none;
-  padding: 4px 20px;
+  font-weight: bold;
+  margin-top: 24px;
   margin-right: 4px;
+  padding: 4px 20px;
 }
 
 .follow-button {
+  color: white;
   background-color: rgb(0, 140, 255);
-  color: rgb(255, 255, 255);
 }
-
-.follow-button:hover {
-  background-color: rgb(51, 100, 236);
-}
-
-.message-button:hover {
-  background-color: rgb(200, 200, 200);
-}
-
 
 .user-introduction {
-  margin: 0px 16px;
+  line-height: 17px;
   font-family: Arial;
   font-size: 14px;
-  line-height: 17px;
+  margin-left: 8px;
 }
 
 .profile-link {
-  font-weight: bold;
   text-decoration: none;
+  font-weight: bold;
   color: #00376B;
 }
 
@@ -89,13 +48,13 @@
   justify-content: space-around;
   font-family: Arial;
   font-size: 12px;
-  text-align: center;
 }
 
 .story-thumbnail {
   display: block;
   width: 56px;
   height: 56px;
+  border-radius: 50%;
   border: 1.5px solid lightgray;
   padding: 2px;
   margin-bottom: 5px;
@@ -116,6 +75,7 @@
   display: inline-block;
   margin-bottom: 4px;
   font-weight: bold;
+
 }
 
 .title-in-tab {
@@ -125,9 +85,4 @@
 .postings {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  grid-gap: 4px;
-}
-
-.posting-image {
-  width: 100%;
 }
