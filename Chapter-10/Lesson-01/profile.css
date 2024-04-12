@@ -1,0 +1,137 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.account-title {
+  border-bottom: 1px solid lightgray;
+  position: fixed;
+  width: 100%;
+  top: 0px;
+  font-size: 9px;
+  font-family: Arial;
+  background-color: white;
+  padding: 12px;
+  z-index: 10;
+}
+
+.account-body {
+  position: relative;
+  top: 50px;
+  z-index: 5;
+}
+
+.account-name {
+  text-align: center;
+}
+
+.profile-wrapper {
+  margin: 24px 16px;
+}
+
+.profile-image {
+  margin-top: 8px;
+  width: 77px;
+  height: 77px;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.user-info {
+  padding-left: 28px;
+  display: inline-block;
+}
+
+.user-name {
+  font-family: Arial;
+  font-size: 20px;
+}
+
+.instagram-button {
+  border-radius: 8px;
+  height: 30px;
+  margin-top: 24px;
+  font-weight: bold;
+  border: none;
+  padding: 4px 20px;
+  margin-right: 4px;
+}
+
+.follow-button {
+  background-color: rgb(0, 140, 255);
+  color: rgb(255, 255, 255);
+}
+
+.follow-button:hover {
+  background-color: rgb(51, 100, 236);
+}
+
+.message-button:hover {
+  background-color: rgb(200, 200, 200);
+}
+
+
+.user-introduction {
+  margin: 0px 16px;
+  font-family: Arial;
+  font-size: 14px;
+  line-height: 17px;
+}
+
+.profile-link {
+  font-weight: bold;
+  text-decoration: none;
+  color: #00376B;
+}
+
+.stories {
+  display: flex;
+  justify-content: space-around;
+  font-family: Arial;
+  font-size: 12px;
+  text-align: center;
+}
+
+.story-thumbnail {
+  display: block;
+  width: 56px;
+  height: 56px;
+  border: 1.5px solid lightgray;
+  padding: 2px;
+  margin-bottom: 5px;
+}
+
+.tabs {
+  display: flex;
+  justify-content: space-around;
+  padding: 12px 0px;
+  font-family: Arial;
+  text-align: center;
+  font-size: 14px;
+  border: 1px solid lightgray;
+  margin: 20px 0px;
+}
+
+.tab {
+  justify-content: center;
+}
+
+.number-in-tab {
+  display: inline-block;
+  margin-bottom: 4px;
+  font-weight: bold;
+}
+
+.title-in-tab {
+  color: gray;
+}
+
+.postings {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 4px;
+}
+
+.posting-image {
+  width: 100%;
+}
