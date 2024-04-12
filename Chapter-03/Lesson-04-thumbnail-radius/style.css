@@ -49,3 +49,10 @@
   font-family: Arial;
   font-size: 12px;
 }
+
+.story-thumbnail {
+  display: block;
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+}
