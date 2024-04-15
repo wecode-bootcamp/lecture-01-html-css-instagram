@@ -1,0 +1,41 @@
+Scene 1: Introduction
+
+Text: "Hello, friends! Today, we're going to create our own Instagram profile, starting with something very important—the profile picture. Are you ready to add your favorite photo to your Instagram profile? Let's learn how together!"
+Background: An animated classroom or a cozy digital space with a friendly character next to a computer.
+Animation: The character waves hello and points towards the screen excitedly, setting an inviting tone for the lesson.
+Scene 2: Introducing HTML Image Tag
+
+Text: "First, let's understand how to insert an image in HTML. We use a tag called <img>, which is short for 'image'. This tag allows us to add images to our web page."
+Background: A clear, simple editor on one side and a web browser on the other displaying a live preview.
+Animation: As the tag is mentioned, an example <img> tag appears in the editor and is highlighted.
+Scene 3: Preparing the Image File
+
+Text: "Before we add the image, we need to prepare the image file we want to use. Let’s say our file is named 'instagram-profile.jpg'."
+Background: Display a folder on the computer screen that opens to show the file named 'instagram-profile.jpg'.
+Animation: The file icon is clicked and previewed next to the text editor to show its preparation.
+Scene 4: Using the 'src' Attribute
+
+Text: "To put this image on our webpage, we add the 'src' attribute to our <img> tag like this: <img src='./instagram-profile.jpg' />. 'Src' stands for 'source'."
+Background: Focus on the text editor as the complete tag is typed out.
+Animation: The cursor types the tag, and simultaneously, the image appears in the browser preview.
+Scene 5: Image Appears on the Webpage
+
+Text: "And just like that, the image file you prepared appears on your web page. By setting the 'src' attribute to the path of your image file, you display the image."
+Background: A split-screen showing the code on one side and the resulting web page on the other.
+Animation: The image smoothly transitions into view on the webpage as the tag is completed.
+Scene 6: Understanding HTML Tags and Attributes
+
+Text: "In HTML, we have various tags like the <img> tag to insert images, and attributes like 'src' enhance these tags. Attributes help us specify settings for our tags, enriching our web pages."
+Background: An interactive HTML document that highlights different tags and attributes.
+Animation: Different attributes pop up around the <img> tag, showing how they modify the tag's behavior.
+Scene 7: Encouragement to Experiment
+
+Text: "Now, try inserting your own Instagram profile picture using the <img> tag. It's exciting to see how our web pages transform with each addition."
+Background: Examples of different profiles with varying images.
+Animation: Thumbnails of various profile pictures switch as if different users are logging in.
+Scene 8: Conclusion and Farewell
+
+Text: "I hope you enjoyed this coding session as much as I did. Keep experimenting, and I can't wait to see the amazing Instagram profiles you'll create. Until next time, keep coding, and goodbye!"
+Background: The friendly character waves goodbye, the screen slowly fades to a "See You Next Time!" message.
+Animation: Light, cheerful music plays as the character waves, and the screen transitions to an inspiring quote about learning and creativity.
+This video script is crafted to make the learning process both fun and educational, using visual cues and animations to ensure viewers can easily follow along and understand each step of creating an Instagram profile in HTML.

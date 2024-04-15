@@ -1,0 +1,40 @@
+Scene 1: Introduction to HTML
+
+Text: "Hello, friends! Today's lesson is really special. We're going to learn how HTML, the first step in making web pages we see on our computers, is created. Are you ready? Let's start together!"
+Background: An animation of a computer screen powering on, transitioning to a desktop with an HTML file icon.
+Animation: The HTML file icon opens to reveal a blank HTML document, setting the stage for the lesson.
+Scene 2: Explaining HTML
+
+Text: "HTML stands for HyperText Markup Language. It might sound complicated, but it's actually a crucial tool used to create the pages we see on the Internet every day. And today, we're going to use this tool ourselves."
+Background: A simple web editor background with a blinking cursor.
+Animation: Text "HTML is HyperText Markup Language" types itself out in the editor.
+Scene 3: Simple Example Introduction
+
+Text: "Our example for today is very simple. We're just going to display 'wecode' on the computer screen!"
+Background: Switch to a browser view where "wecode" appears as plain text.
+Animation: The word "wecode" fades into view on a browser window to simulate how it would appear live.
+Scene 4: HTML in Action
+
+Text: "After we write HTML code, how can we see it in a browser? Just like this text 'wecode' written in an HTML file, it becomes viewable in a browser."
+Background: Split screen showing the HTML code on one side and the browser display on the other.
+Animation: Highlighting the text in the code editor and showing its direct effect in the browser window.
+Scene 5: The Magic of HTML
+
+Text: "This is the magic of HTML code! The text you write appears exactly as it is on the screen. In other words, the browser shows the text exactly as you've written it in the code."
+Background: Close-up on the browser window showing "wecode".
+Animation: The text "wecode" is highlighted in the browser as it is discussed.
+Scene 6: Limitations and Possibilities
+
+Text: "But simply writing text down isn't enough to make the complex and beautiful pages we see on the web. Those pages use a variety of HTML tags."
+Background: Transition to examples of more complex HTML pages using different tags.
+Animation: A flow of different HTML tags (like <h1>, <p>, <div>) appears, showing how each affects the layout and design of a page.
+Scene 7: Conclusion and Encouragement
+
+Text: "So, what we learned today is just the basics of HTML. It's not just about displaying text, but about structuring web pages in any way you want. Start with simple text like 'wecode', and gradually move to more complex web pages."
+Background: A collage of various sophisticated web pages built with HTML.
+Animation: A roadmap unfolds showing a journey from simple text to complex pages, encouraging viewers to explore more.
+Scene 8: Farewell and Look Ahead
+
+Text: "Exploring HTML is a thrilling journey. You'll learn a lot, and eventually, you can create your own fantastic web pages. Let's look forward to diving deeper into the exciting world of HTML next time! Remember what we learned today and see you in the next lesson. Goodbye, friends!"
+Background: A classroom setting fades into a preview of the next lesson's topics, creating a sense of anticipation.
+Animation: The classroom slowly dims as the screen fades to black with the words "See you next time!"

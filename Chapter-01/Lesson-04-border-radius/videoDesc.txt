@@ -1,0 +1,40 @@
+Scene 1: Introduction
+
+Text: "Hello, friends! Today we're going to learn how to make our Instagram profile pictures beautifully round. Let's get started!"
+Background: A welcoming animation of a digital classroom setting with a friendly teacher-like character.
+Animation: The character waves and smiles as the scene transitions to a computer screen displaying an Instagram profile.
+Scene 2: Understanding Image Shape Transformation
+
+Text: "First, when we add images, we sometimes want them to be round instead of square. To do this, we use a special magic called 'border-radius'."
+Background: Close-up of a square profile image on a web page.
+Animation: A sparkling effect appears around the image as it gradually turns round.
+Scene 3: Applying Styles to HTML Elements
+
+Text: "To make an image round, we add a style attribute to the <img> tag. By typing 'border-radius: 50%;', watch how the square image transforms!"
+Background: The HTML code is shown being edited in real-time, highlighting the <img> tag.
+Animation: As the code is typed, the square image smoothly transitions into a round shape on the screen.
+Scene 4: The Magic of Border-Radius
+
+Text: "The 'border-radius' property rounds the corners of an image or other elements. When we set it to '50%', it makes the image perfectly circular. It's like magic!"
+Background: Diagram showing how border-radius affects image shape.
+Animation: A circle drawing itself to demonstrate the 50% radius effect, with before and after comparisons.
+Scene 5: Creating a Circular Profile Image
+
+Text: "Now you can use this magic to make your own Instagram profile picture round. This will make your profile look more minimalistic and stylish."
+Background: Display of various Instagram profiles with square and round images for comparison.
+Animation: Transition effects showing the enhancement of profiles with round images.
+Scene 6: Using CSS More Effectively
+
+Text: "This method is great for a single image, but if we want to round many images, it's more efficient to define styles directly in a CSS file. We'll explore more of this in future lessons."
+Background: A basic CSS file opens, ready for new styles to be added.
+Animation: Highlighting the CSS file where new styles will be applied.
+Scene 7: Recap and Farewell
+
+Text: "Today, we learned a simple yet powerful way to beautify images for beginners. I hope your web pages turn out even more fantastic, and I look forward to seeing what you create next time."
+Background: A classroom setting with the character standing next to a digital board displaying a 'Well Done' message.
+Animation: The character gives a thumbs-up as the session ends with a cheerful tune.
+Scene 8: Encouragement and Goodbye
+
+Text: "Try making various images round at home using this method. Practice well, and I'll see you in our next exciting session. Goodbye, friends!"
+Background: The classroom fades to a calm outro screen with reminders of the next lesson.
+Animation: The character waves goodbye as the screen fades out, leaving a positive and encouraging message for the viewers to try their own projects.

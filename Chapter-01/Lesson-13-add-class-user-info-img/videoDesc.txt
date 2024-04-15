@@ -1,0 +1,38 @@
+Here's the detailed breakdown of the script focused on organizing web page elements with HTML tags and CSS classes, formatted for an engaging educational video:
+
+Scene 1: Introduction
+
+Text: "Hello, friends! Today, we're going to learn how to make our web page's images and information more beautiful and organized, focusing on clearly separating 'Profile Image' and 'User Information'. Are you ready? Let's get started!"
+Background: A welcoming classroom or digital workspace setting.
+Animation: Transition into an animated web page showing cluttered elements.
+Scene 2: Assigning a Class to Profile Image
+
+Text: "First, let's start with our 'Profile Image'. Up to now, we've just used <img src="./instagram-profile.jpg" alt="profile-picture" />. But today, we'll add a class like this: <img class="profile-image" src="./instagram-profile.jpg" alt="profile-picture" /> to apply specific styles to our image."
+Background: Side-by-side comparison of the HTML code without and with the class attribute.
+Animation: Highlighting the changes in the code and visually demonstrating the effect of adding a class on the styling of the image.
+Scene 3: Creating a User Information Section
+
+Text: "Next is the 'User Information' part. We'll use <section class="user-info"> to group information like the user's name and follow button together. This helps us manage these elements as one unit on our page."
+Background: Code editor showing the implementation of the <section> tag around user information.
+Animation: Demonstration of grouping elements under the <section> tag, showing the logical grouping on the web page layout.
+Scene 4: Understanding the <section> Tag
+
+Text: "<section> tag is used to logically separate specific parts of a web page. In our example, <section class="user-info"> is used to create a section for user information, indicating it's a distinct area on the web page."
+Background: Diagram showing different sections of a webpage.
+Animation: Animation illustrating how different content falls under different <section> tags, differentiating from <div> tags.
+Scene 5: Difference Between <div> and <section>
+
+Text: "Kids, <div> and <section> tags might look similar at first glance. However, <div> is generally used for styling or grouping content without semantic meaning, while <section> is used to group related content that forms a distinct section with a clear meaning."
+Background: Visual examples comparing <div> and <section> usage.
+Animation: Split-screen showing non-semantic grouping with <div> versus semantic structuring with <section>.
+Scene 6: Putting Learned Concepts into Practice
+
+Text: "Let's use what we've learned today to organize your project's images and information better. Start by adding a class="profile-image" to your profile image and grouping user information under <section class="user-info">."
+Background: Step-by-step guide on applying classes and tags to a real project.
+Animation: Before and after transformation of a web page by applying the new tags and classes.
+Closing Scene
+
+Text: "Friends, using tags and classes as we learned today can make our web pages more organized and visually appealing. Practice these techniques, and don't hesitate to ask questions. I look forward to seeing you in our next session. Great job today, everyone! Goodbye!"
+Background: The classroom fades into a cheerful goodbye scene.
+Animation: The instructor waves goodbye as the screen fades to a "See You Next Time!" message.
+This script and visual setup are designed to educate viewers interactively and visually, making it easier to understand the importance of HTML semantic elements and CSS classes in web design.

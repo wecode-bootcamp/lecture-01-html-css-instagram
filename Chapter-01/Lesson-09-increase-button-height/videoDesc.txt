@@ -1,0 +1,31 @@
+Scene 1: Introduction
+
+Text: "Hello everyone! Today, we're going to learn how to gradually improve the style of our web pages, focusing on how to adjust the height of buttons. Are you ready? Let's start learning together!"
+Background: A friendly digital classroom setting with a welcoming tone. A simple web page example is visible on a screen.
+Animation: The instructor waves hello and then points towards a displayed webpage showing various buttons.
+Scene 2: Sequential Improvement in CSS Style
+
+Text: "In our Instagram project, we initially set the height of the .instagram-button class to 40px. However, to make the buttons more harmonious, we've adjusted the height to 30px. This process of making small adjustments helps us achieve the design we desire."
+Background: A side-by-side comparison of buttons with different heights on a web page.
+Animation: A slider adjusts the button height from 40px to 30px, highlighting the change.
+Scene 3: The Importance of Style Adjustment
+
+Text: "Even small changes, like adjusting button height, can reduce the space buttons occupy on the page, creating a more attractive and balanced design. This makes the user experience more comfortable and enjoyable."
+Background: Examples of cluttered vs. balanced webpage designs.
+Animation: Transition effects showing the improvement in web page appearance as the button height changes.
+Scene 4: Importance of User Interface (UI) Design
+
+Text: "Today's lesson not only teaches us about creating visually appealing pages but also emphasizes how users feel when they interact with our pages. Good user interface design helps make the website more accessible and user-friendly."
+Background: A diagram showing the impact of UI design on user experience.
+Animation: Users interacting with two versions of a website, one with poor UI and one improved, highlighting the differences in user reactions.
+Scene 5: Learning Through Practice
+
+Text: "Now it's your turn! Try adjusting the height of the .instagram-button class yourself. What do you think is the most appropriate height? Adjust it to create a more harmonious and user-friendly design."
+Background: A simple CSS editor on one side and the results on a web page on the other.
+Animation: A cursor moving in the CSS code, adjusting values, and the web page updating in real-time.
+Scene 6: Conclusion
+
+Text: "Today, we've learned how to incrementally improve styles using CSS. This process helps us develop better user interfaces. Keep experimenting with your web pages to ensure they offer the best user experience possible."
+Background: A recap of the main points with encouraging graphics.
+Animation: The instructor gives a thumbs up, and the screen fades to a "See you next time!" message.
+This script is designed to educate students on the practical aspects of CSS and its impact on user experience, encouraging them to apply these principles to their projects.

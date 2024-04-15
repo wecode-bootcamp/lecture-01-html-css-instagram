@@ -1,0 +1,40 @@
+Scene 1: Introduction
+
+Text: "Hello, friends! Today, we're going to make our Instagram profile picture look even more beautiful by learning how to make it round using the 'border-radius' property. Ready to dive in?"
+Background: Animation of a friendly character next to a computer, with a simple Instagram profile page displayed.
+Animation: The character gestures invitingly towards the screen.
+Scene 2: Adjusting Image Size
+
+Text: "First, let's adjust the size of our profile picture to fit perfectly on our page."
+Background: Close-up on an HTML code editor where <img> tags are shown.
+Animation: Code appearing in the editor to adjust the width and height attributes of the image.
+Scene 3: Understanding Alt Attribute
+
+Text: "Next, we'll add an 'alt' attribute to ensure our image communicates well even when it doesn’t load."
+Background: The HTML code updates to include an alt attribute in the <img> tag.
+Animation: A pop-up explains the importance of the 'alt' attribute while showing an image failing to load but displaying the alt text.
+Scene 4: Making the Image Round
+
+Text: "Now, the fun part—making our profile image round. We’ll use the 'border-radius' property and set it to 50%."
+Background: CSS code appears in a sidebar next to the HTML.
+Animation: As the border-radius code is typed, a square image transitions into a circle on the web page preview.
+Scene 5: CSS Magic
+
+Text: "With just that small change, our image becomes perfectly round, thanks to the magic of CSS."
+Background: Before and after comparison of the profile image on a simulated Instagram profile.
+Animation: A circle drawing itself around the image to highlight the effect of the border-radius.
+Scene 6: Encouragement and Recap
+
+Text: "As you can see, HTML and CSS let us beautify and enhance user experience on our web pages. That’s the beauty of web development!"
+Background: Various examples of creatively styled web pages using similar techniques.
+Animation: Quick flashes of different designs that use CSS to enhance visuals.
+Scene 7: Call to Action
+
+Text: "Now it’s your turn to try making your profile photo round. Step by step, we're learning to build more on our web pages. Have fun coding!"
+Background: The friendly character encouraging viewers to try on their own.
+Animation: Text editor and browser side-by-side, with cursor blinking as if waiting for the viewer to start typing.
+Scene 8: Farewell
+
+Text: "We'll explore more fun and useful things in our next session. Practice well until then, friends! Goodbye!"
+Background: The character waves goodbye, with a "See You Next Time!" message.
+Animation: Soft, cheerful music plays as the scene fades out, leaving viewers with a sense of accomplishment and anticipation for more.

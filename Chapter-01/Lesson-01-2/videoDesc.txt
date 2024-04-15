@@ -1,0 +1,40 @@
+Scene 1: Introduction
+
+Text: "Hello, friends! Today we're going to learn something incredibly interesting: how to create buttons on websites! Have you ever seen 'Follow' or 'Send Message' buttons while browsing the internet? Ever wondered how they're made? Well, today, I'm going to share that secret with you!"
+Background: A vibrant classroom or a digital workspace setup with a friendly character standing next to a large monitor displaying the introductory text.
+Animation: Text and friendly character animations welcome viewers, setting an engaging tone.
+Scene 2: From Text to Buttons
+
+Text: "Previously, we looked at simple text like 'wecode'. But today, we're going a step further. Let me show you how:"
+Background: A split-screen showing a basic text editor on one side and a web browser on the other.
+Animation: The word 'wecode' appears on the text editor side and then in the web browser as plain text.
+Scene 3: Introducing HTML Buttons
+
+Text: "Now, let's uncover our first secret: HTML can create not just text, but clickable buttons too! Isn't that amazing?"
+Background: Transition to focus solely on the web browser where 'wecode' was displayed.
+Animation: Two buttons labeled 'Follow' and 'Send Message' appear below the 'wecode' text.
+Scene 4: Creating Buttons
+
+Text: "Creating these buttons is really simple. Just write '<button>', add the text you want for the button, like 'Follow', and then close it with '</button>'. That's it! Your button is created."
+Background: Close-up of the text editor showing the HTML code being typed out.
+Animation: As the narrator explains, the corresponding HTML tags are highlighted, and the buttons visually form on the browser display side.
+Scene 5: Try It Yourself
+
+Text: "For example, if you want to create a 'Follow' button, just type: '<button> Follow </button>'. And for a 'Send Message' button, it's just as easy: '<button> Send Message </button>'. Simple, right? Now you can try making your own buttons. Isn't that cool?"
+Background: Examples of various buttons being created with different labels.
+Animation: Buttons are shown being typed out and appearing in a simulated browser window, demonstrating their functionality.
+Scene 6: Interactive Buttons
+
+Text: "Now that we've made our buttons, try clicking on them. They actually work! This is the magic of HTML—what you code is what you see on the screen."
+Background: Interactive demo where viewers can see the cursor clicking the buttons and the buttons reacting.
+Animation: Highlight the interaction with visual effects to emphasize the button clicks.
+Scene 7: Conclusion and Encouragement
+
+Text: "So, with what we learned today, you can start adding stylish 'Follow' or 'Send Message' buttons to your own web pages. Share them with your friends—it's a lot of fun! And by adding these buttons, you'll make your web pages more interactive and engaging."
+Background: A more advanced web page design showing how buttons can enhance user interaction.
+Animation: Transition showing a web page evolving from simple to complex with the addition of various HTML elements, including buttons.
+Scene 8: Farewell
+
+Text: "That’s all for today's lesson. Remember to practice what we've learned, and I can't wait to see the wonderful buttons you'll create. See you next time, friends! Goodbye!"
+Background: Classroom setting gradually fades out to a "See You Next Time!" message.
+Animation: Friendly character waves goodbye, encouraging viewers to return for more lessons.

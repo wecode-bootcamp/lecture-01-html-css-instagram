@@ -1,0 +1,30 @@
+Scene 1: Introduction
+
+Text: "Hello, friends! Today, we're going to learn about some very important basic structures needed when starting an HTML document. It might seem a bit challenging at first, but don't worry. As we go through it together, it will naturally become clearer. Shall we get started?"
+Background: A classroom setting with digital themes, featuring a large digital blackboard displaying a friendly welcome message.
+Animation: A friendly animated teacher appears, waving and smiling, engaging with the audience.
+Scene 2: Understanding the Basic HTML Structure and DOCTYPE Declaration
+
+Text: "To create a web page, we need to start with the basic structure of an HTML document. The starting point is the <!DOCTYPE html>. This tells the browser that our page follows the HTML5 standard, helping our page to display consistently across different browsers."
+Background: A computer screen displaying the <!DOCTYPE html> tag highlighted, with various browser icons around it to symbolize compatibility.
+Animation: The <!DOCTYPE html> tag being typed out on a digital editor with visual effects that highlight its importance.
+Scene 3: The Magic of HTML, Head, and Body Tags
+
+Text: "Let's look at the three main parts of an HTML document: the <html> tag acts as the root element of our web page, encompassing all other elements. The <head> tag defines metadata like the page's title or styles. For example, <title>My First Instagram</title>. The <body> tag contains the actual content of the page like images, text, and buttons."
+Background: Split-screen showing each tag (<html>, <head>, <body>) with corresponding elements within them.
+Animation: Each section fills with content as described, showing a clear and structured buildup of the HTML document.
+Scene 4: Why We Use This Structure
+
+Text: "Why do we use this structure? It helps organize our code better, allows browsers to understand and render the page efficiently, and makes it easier to update or modify the page later."
+Background: Diagram showing organized vs. disorganized code, with the structured version leading to better performance and easier maintenance.
+Animation: Transition effects between unorganized code snippets evolving into a well-structured HTML format.
+Scene 5: Applying What We Learned
+
+Text: "Now, let's see how we applied what we learned to our current code. We start with the <!DOCTYPE html> declaration, wrap everything with the <html> tag, include our page's title and styles in the <head>, and place our actual content—images, usernames, buttons—in the <body>."
+Background: A live coding session where the HTML document is being constructed with all mentioned elements.
+Animation: Real-time coding animation, showing the gradual construction of an HTML document from start to finish.
+Scene 6: Conclusion and Encouragement
+
+Text: "Remember the structure we learned today for all the web pages you will create. It might seem complicated at first, but with practice, it will become second nature. Next time, we'll explore even more exciting things. Until then, practice well, and feel free to ask any questions, friends! Goodbye!"
+Background: Classroom fades to a motivational outro with text encouraging viewers to experiment with their projects.
+Animation: The teacher gives a thumbs-up and waves goodbye, leaving viewers with a sense of accomplishment and anticipation for the next lesson.
